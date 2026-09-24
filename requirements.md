@@ -1,0 +1,11 @@
+# Requirements
+- A customer can view avalilable movies and showtimes
+    - The home scree in the kiosk will display available movies to watch along with the times the movie is being ran. 
+- A customer can choose an available seat
+    - After selecting a movie, the kiosk will display all available and taken seats. The customer would then select the seat they prefer
+- A customer can purchase a ticket
+    - After succesfully selecting an available seat for a movie screening, the kiosk application will prompt the customer to pay for the movie ticket
+- The system provides confirmation
+    - An email receipt describing payment for tickets will be sent to customers along with the movie tickets in digital form.
+- The system must prevent the same seat from being sold twice
+    - Same seat purchases will be avoided by the kiosk application by mainaining access to all ticket purchase states at any given time.
