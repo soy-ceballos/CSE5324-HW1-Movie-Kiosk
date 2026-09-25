@@ -1,4 +1,5 @@
 # Requirements
+
 - A customer can view avalilable movies and showtimes
     - The home scree in the kiosk will display available movies to watch along with the times the movie is being ran. 
 - A customer can choose an available seat
